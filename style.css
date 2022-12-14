@@ -58,7 +58,8 @@ p{
 }
 .navIcon{
     font-size: 2rem;
-    width: 100%;
+    width: 10%;
+    color: azure;
 }
 .card-title {
     text-align: center;
