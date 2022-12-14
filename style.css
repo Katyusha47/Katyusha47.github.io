@@ -34,10 +34,10 @@ p{
 }
 
 /* spacing on all sections */
-#about, #services, #portfolio, #contact {
+/* #about, #services, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
-} 
+} */
 #contact {
     padding-bottom: 4rem;
 }
@@ -57,7 +57,8 @@ p{
     width: 100%;
 }
 .navIcon{
-    
+    font-size: 2rem;
+    width: 100%;
 }
 .card-title {
     text-align: center;
