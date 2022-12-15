@@ -24,6 +24,10 @@ p{
     text-indent: 0.5in;
 }
 
+h4{
+    color: black;
+}
+
 .hero-text {
     text-align: center;
     position: absolute;
