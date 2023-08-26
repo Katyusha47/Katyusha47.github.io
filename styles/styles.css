@@ -25,7 +25,7 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #D70040;
+  --color-secondary: #D70045;
   --color-white: #12181b;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -271,7 +271,7 @@ section {
 .about-stats .progress-bars {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-gap: 2rem;
+  grid-gap: 3rem;
 }
 .about-stats .progress-bars .progress-bar {
   display: flex;
@@ -305,22 +305,22 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
-  width: 40%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
-  width: 30%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 40%;
+  width: 100%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 60%;
+  width: 100%;
 }
 
 .stat-title {
